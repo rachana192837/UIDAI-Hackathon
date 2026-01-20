@@ -43,5 +43,16 @@ Clone this repository
 
 Install required libraries: 
 
-'''bash
+```bash
 pip install pandas numpy matplotlib plotly statsmodels scikit-learn
+```
+Open and run:
+```bash
+jupyter notebook UIDAI.ipynb
+```
+🏆 Hackathon Context
+
+This project was developed as part of the
+UIDAI – NIC – MeitY Online Hackathon on Data-Driven Innovation for Aadhaar
+
+The objective is to extract meaningful insights, trends, anomalies, and predictive indicators from Aadhaar enrolment and update data to support informed decision-making and system improvements.
