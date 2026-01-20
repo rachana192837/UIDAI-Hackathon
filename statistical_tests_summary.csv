@@ -1,0 +1,5 @@
+Test,Statistic,P-value,Significant
+Migration vs Child Enrollment (Pearson),0.6454,0.0000,✅
+Migration vs Child Enrollment (Spearman),0.9080,0.0000,✅
+High vs Low Migration Areas (T-test),6.6304,0.0000,✅
+Seasonal Distribution (Chi-square),8818.6700,0.0000,✅

@@ -1,0 +1,24 @@
+{
+  "Dataset Overview": {
+    "Total Enrollment Records": "319,718",
+    "Total Demographic Updates": "676,367",
+    "Total Biometric Updates": "871,964",
+    "Analysis Period": "2025-01-03 00:00:00 to 2025-12-12 00:00:00"
+  },
+  "Migration Statistics": {
+    "Total Address Updates": "676,367",
+    "Average Monthly Migrations": "56,364",
+    "Peak Migration Month": "Jan",
+    "Peak Volume": "68,386"
+  },
+  "Geographic Distribution": {
+    "States with Activity": 10,
+    "Top State": "Andhra Pradesh",
+    "Top State Share": "9.8%"
+  },
+  "Temporal Patterns": {
+    "Years Analyzed": 1,
+    "Most Active Year": 2025.0,
+    "Seasonal Variation": "39.2%"
+  }
+}
